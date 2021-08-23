@@ -38,6 +38,3 @@ cacheSolve(e)
 test2 <- matrix(c(5/8,-1/8,-7/8,3/8),2,2)
 e <- makeCacheMatrix(test2)
 cacheSolve(e)
-
-
-testt
